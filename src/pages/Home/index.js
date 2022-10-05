@@ -83,6 +83,7 @@ function Home() {
       ac.abort();
     };
   }, []);
+  
   function navigateDetailsPage(item) {
     navigation.navigate('Details', { id: item.id, params: 'movie' });
   }

@@ -31,7 +31,6 @@ export const DetailsButton = styled.TouchableOpacity`
   width: 85%;
   height: 35px;
   background-color: #e72f49;
-  align-items: center;
   border-radius: 30px;
   justify-content: center;
   align-items: center;
